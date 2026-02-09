@@ -1,0 +1,21 @@
+ID;FullName;Email;Department;JobTitle;Status;JoinDate;Salary
+1001;John Doe;john.doe@company.com;IT;Senior Software Engineer;Active;2023-04-15;120000.00
+1002;Haylie Bergson;bergson@company.com;HR;HR Consultant;Active;2024-01-10;85000.00
+1003;Allison Culhane;allison@company.com;Design;UX Designer;On Leave;2024-01-20;95000.00
+1004;Michael Scott;m.scott@company.com;Sales;Regional Manager;Active;2020-05-12;98000.00
+1005;Pam Beesly;pam.b@company.com;Admin;Office Administrator;Active;2021-03-20;65000.00
+1006;Jim Halpert;jim.h@company.com;Sales;Sales Executive;Active;2021-09-15;80000.00
+1007;Dwight Schrute;dwight.s@company.com;Sales;Assistant Regional Manager;Active;2019-11-01;85000.00
+1008;Angela Martin;angela.m@company.com;Finance;Senior Accountant;Resigned;2020-01-25;92000.00
+1009;Kevin Malone;kevin.m@company.com;Finance;Accountant;Active;2022-06-10;55000.00
+1010;Oscar Martinez;oscar.m@company.com;Finance;Head Accountant;Active;2018-08-14;105000.00
+1011;Stanley Hudson;stanley.h@company.com;Sales;Senior Sales Rep;Active;2015-02-11;88000.00
+1012;Kelly Kapoor;kelly.k@company.com;Support;Customer Service;Active;2022-10-05;58000.00
+1013;Ryan Howard;ryan.h@company.com;Marketing;Junior Executive;Active;2024-02-01;52000.00
+1014;Toby Flenderson;toby.f@company.com;HR;HR Manager;Active;2017-04-30;90000.00
+1015;Creed Bratton;creed.b@company.com;Quality;QA Specialist;Active;2010-01-01;72000.00
+1016;Meredith Palmer;meredith.p@company.com;Supply Chain;Supplier Relations;Active;2019-07-20;68000.00
+1017;Phyllis Vance;phyllis.v@company.com;Sales;Sales Representative;Active;2016-12-05;75000.00
+1018;Darryl Philbin;darryl.p@company.com;Logistics;Warehouse Manager;Active;2018-03-22;82000.00
+1019;Erin Hannon;erin.h@company.com;Admin;Receptionist;Active;2023-08-15;48000.00
+1020;Andy Bernard;andy.b@company.com;Sales;Sales Director;Active;2021-05-18;95000.00
