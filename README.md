@@ -1,4 +1,4 @@
-# Employee-Management-Fiori-Elements
+# Employee_Management_Fiori_Elements
 A sophisticated SAP Fiori Elements application for employee administration, built on the SAP Cloud Application Programming (CAP) model. This project showcases backend-driven UI development, where the interface is dynamically generated using CDS Annotations and OData v4 services.
 
 ## 📺 Project Demo
