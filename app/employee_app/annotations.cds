@@ -29,7 +29,7 @@ annotate service.Employees with {
 
 // 2. UI Layout Annotations
 annotate service.Employees with @(
-    // UX Designer Tip: Defining SelectionFields prioritizes these filters on the bar.
+    // Defining SelectionFields prioritizes these filters on the bar.
     UI.SelectionFields : [
         Department,
         Status
